@@ -1,0 +1,26 @@
+
+]	java:S899Ã"BDo something with the "boolean" value returned by "createNewFile".(¨Œ—Ôşÿÿÿÿ
+p
+java:S1192†"TDefine a constant instead of duplicating this literal "memberCreationCount" 3 times.( Ïâ×ûÿÿÿÿ
+]	java:S899Õ"BDo something with the "boolean" value returned by "createNewFile".(¨Œ—Ôşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë²†Œÿÿÿÿÿ
+b
+java:S2095N"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(÷µ·ì
+b
+java:S2095$"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Ù’²´
+€
+java:S1488ã"dImmediately return this expression instead of assigning it to the temporary variable "completePath".(ä“ü—ıÿÿÿÿ
+c
+java:S2095Ä"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Ù’²´
+N
+java:S1135œ"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+7
+java:S1643 "Use a StringBuilder instead.(ƒ‘›„úÿÿÿÿ
+c
+java:S2095Ÿ"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(÷µ·ì
+2
+java:S16435"Use a StringBuilder instead.(‰û‹Ø
+c
+java:S1192""HDefine a constant instead of duplicating this literal "members" 3 times.(‹üµûÿÿÿÿ
+]
+java:S1075â"ARefactor your code to get this URI from a customizable parameter.(ë²ÍØşÿÿÿÿ

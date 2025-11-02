@@ -1,0 +1,13 @@
+
+N
+java:S1135"2Complete the task associated to this TODO comment.(ƒñÔ8˜™Î‰Ø.
+O
+java:S1199$"-Extract this nested code block into a method.(ıÉçøÿÿÿÿ8•âÉ¥Î.
+`	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(œÿÀİüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°Î
+T
+java:S1135K"2Complete the task associated to this TODO comment.(Å£Ñºøÿÿÿÿ8˜™Î‰Ø.
+O
+java:S1135Š"2Complete the task associated to this TODO comment.(°¤ı8•âÉ¥Î.
+n
+java:S1301€"KReplace this "switch" statement by "if" statements to increase readability.(éß§¤øÿÿÿÿ8•âÉ¥Î.

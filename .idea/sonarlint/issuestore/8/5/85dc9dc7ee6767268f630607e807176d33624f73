@@ -1,0 +1,12 @@
+
+e
+java:S2259D"HA "NullPointerException" could be thrown; "getMember()" can return null.(¤¼ðí8š™Î‰Ø.
+v
+java:S4144&"YUpdate this method so that its implementation is not identical to "getMember" on line 29.(Ò§Ôò8–âÉ¥Î.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á–Ì“
+j
+java:S2259H"HA "NullPointerException" could be thrown; "getMember()" can return null.(áôÕùúÿÿÿÿ8š™Î‰Ø.
+d
+java:S2259P"HA "NullPointerException" could be thrown; "getMember()" can return null.(Ø °}8š™Î‰Ø.
+j
+java:S2259L"HA "NullPointerException" could be thrown; "getMember()" can return null.(†äÃåùÿÿÿÿ8š™Î‰Ø.

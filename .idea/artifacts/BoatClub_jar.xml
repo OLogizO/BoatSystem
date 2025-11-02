@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BoatClub:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BoatClub_jar</output-path>
+    <root id="archive" name="BoatClub.jar">
+      <element id="module-output" name="BoatClub" />
+    </root>
+  </artifact>
+</component>
